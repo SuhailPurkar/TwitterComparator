@@ -5,4 +5,5 @@ A program that compares two Twitter profiles using IBM Watsons Personality Test 
 Output
 ------
 ![alt tag](http://i.imgur.com/pMmKAqd.png)
-![alt tag](http://www.healthterm.com/wp-content/uploads/2016/06/Logo-IBM-Watson.png)
+<img src="http://www.healthterm.com/wp-content/uploads/2016/06/Logo-IBM-Watson.png" width="48">
+
