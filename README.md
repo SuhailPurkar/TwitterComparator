@@ -7,7 +7,7 @@ Output
 ![alt tag](http://i.imgur.com/pMmKAqd.png)
 
 ## License
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  <img src="http://i.imgur.com/G184Zqz.png" width="150">
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  <img src="http://i.imgur.com/G184Zqz.png" width="200">
 
 TwitterComparator is licensed under the GNU General Public License.
 
